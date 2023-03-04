@@ -20,6 +20,6 @@
   
 </div><br/>
 
-Aos meus 16 anos descobri a minha paixão pela área de TI, me formando em Técnico em Informatica no Instituto Federal de São Paulo (IFSP), e atualmente estou finalizando o meu curso de Analista de Dados através da Escola Britânica de Artes Criativas e Tecnologia (EBAC).
+Aos meus 16 anos descobri a minha paixão pela área de TI, me formando em Técnico em Informatica no Instituto Federal de São Paulo (IFSP), e atualmente finalizei o meu curso de Analista de Dados através da Escola Britânica de Artes Criativas e Tecnologia (EBAC).
 
 Contato: MayconVagner23@gmail.com
