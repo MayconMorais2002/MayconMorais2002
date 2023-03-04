@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Maycon Morais 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-morais-0039b11b4/)[](https://www.instagram.com/mayconmorais16/)[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mayconmorais23)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-morais/)[](https://www.instagram.com/mayconmorais16/)[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mayconmorais23)
 
 ![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconmorais2002&show_icons=true&theme=radical)
 
